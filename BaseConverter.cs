@@ -1,21 +1,22 @@
 ﻿/*
-TCreative Commons Attribution-NonCommercial 4.0 International
-(CC BY-NC 4.0)
 
 Copyright © 2025 Alexander Keyser
-https://Website-ajk.uk
+    https://Website-ajk.uk
+    https://github.com/Alex-J-key/C-Library-Base-Converter
+
+TCreative Commons Attribution-NonCommercial 4.0 International
+(CC BY-NC 4.0)
 
 This project is licensed under the Creative Commons
 Attribution-NonCommercial 4.0 International License.
 
-Full license text:
-https://creativecommons.org/licenses/by-nc/4.0/
-Or open the LICENSE File within this project
-*/
+    Full license text:
+        https://creativecommons.org/licenses/by-nc/4.0/
+    Or open the LICENSE File within this project
 
-/*
- "BaseConverter" is a C# library that can convert between base 2, 10, and 16
- This is Version 1.0
+"BaseConverter" is a C# library that can convert between base 2, 10, and 16.
+
+This is Version 1.0
 */
 
 namespace BaseConverter;
