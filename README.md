@@ -44,7 +44,7 @@ Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 
 
-Copyright © 2025 Alexander Keyser https://Website-ajk.uk
+Copyright © 2025 Alexander Keyser https://Website-ajk.uk https://github.com/Alex-J-key/C-Library-Base-Converter
 
 
 
@@ -91,6 +91,7 @@ Full license text: https://creativecommons.org/licenses/by-nc/4.0/ Or open the L
 
 
 This is my first library which consists of a few different ways to convert binary, hexadecimal, and integer values together. It isn't the prettiest code in the world, it is code that works.
+
 
 
 
