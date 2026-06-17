@@ -39,7 +39,6 @@ public class BaseConverter
             {
                 FinalBinary += list[i];
             }
-
             return FinalBinary;
         }
         public static string Base10_To_2(Int16 Integer)
@@ -49,7 +48,6 @@ public class BaseConverter
             list.Add(0);
             for (int i = 0; Integer > 0; i++)
             {
-
                 bit = Convert.ToInt16(Integer % 2);
                 list.Add(bit);
                 Integer = Convert.ToInt16(Integer / 2);
@@ -59,7 +57,6 @@ public class BaseConverter
             {
                 FinalBinary += list[i];
             }
-
             return FinalBinary;
         }
         public static string Base10_To_2(Int32 Integer)
@@ -78,7 +75,6 @@ public class BaseConverter
             {
                 FinalBinary += list[i];
             }
-
             return FinalBinary;
         }
         public static string Base10_To_2(Int64 Integer)
@@ -97,7 +93,6 @@ public class BaseConverter
             {
                 FinalBinary += list[i];
             }
-
             return FinalBinary;
         }
         public static string Base10_To_2(Int128 Integer)
@@ -116,7 +111,6 @@ public class BaseConverter
             {
                 FinalBinary += list[i];
             }
-
             return FinalBinary;
         }
         #endregion
@@ -189,8 +183,6 @@ public class BaseConverter
         public static string Base16_To_2(string Hex)
         {
             return Convert.ToString(Base16_To_10_Int64(Hex), 2);
-            
         }
         #endregion
-
 }
